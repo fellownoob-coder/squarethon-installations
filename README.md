@@ -7,6 +7,11 @@ READ BEFORE INSTALLING!!
 
 How to install:
 
+1. go to the folder called installations.
+2. click a folder that is your OS. For example:
+your os is Mac OS X then click that folder, same goes with windows.
+3. download the .zip file of the version of your choice.
+
 When you install the .zip file here are the instructions
 on what to do:
 
