@@ -4,6 +4,9 @@ This is where i'm going to put my installations
 for my game called squarethon.
 
 READ BEFORE INSTALLING!!
+
+How to install:
+
 When you install the .zip file here are the instructions
 on what to do:
 
