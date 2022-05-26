@@ -17,7 +17,7 @@ your os is Mac OS X then click that folder, same goes with windows.
 When you install the .zip file here are the instructions
 on what to do:
 
-Location: in your file explorer
+Location: in your file explorer.
 
 1. right click on the .zip file and click extract here.
 2. when the .zip is made into a regular folder go inside
