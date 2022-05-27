@@ -19,7 +19,7 @@ on what to do:
 
 Location: in your file explorer.
 
-1. right click on the .zip file and click extract to <folder name>.
+1. right click on the .zip file and click extract to (folder name).
 2. when the .zip is made into a regular folder go inside
 and find the .exe file.
 3. play and enjoy the game!
@@ -47,7 +47,7 @@ tentang apa yang harus dilakukan:
 
 Lokasi: di file explorer Anda.
 
-1. klik kanan pada file .zip dan klik ekstrak ke <nama folder>.
+1. klik kanan pada file .zip dan klik ekstrak ke (nama folder).
 2. ketika .zip dibuat menjadi folder biasa masuk ke dalam dan 
 temukan file .exe
 3. mainkan dan nikmati permainannya!
