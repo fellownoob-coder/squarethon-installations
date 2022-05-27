@@ -26,11 +26,7 @@ and find the .exe file.
 
 squarethon is made by me following the tutorials done by brackeys.
 
-
-
-
-
-
+# instalasi-squarethon
 
 Indonesian translation:
 
