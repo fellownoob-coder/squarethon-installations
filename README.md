@@ -25,3 +25,31 @@ and find the .exe file.
 3. play and enjoy the game!
 
 squarethon is made by me following the tutorials done by brackeys.
+
+Indonesian translation:
+
+ini adalah tempat saya akan meletakkan instalasi
+saya untuk game saya yang disebut squarethon.
+
+HARAP BACA SEBELUM MENGINSTAL.
+
+Bagaimana cara meng-install:
+
+Lokasi: di repo ini.
+
+1. pergi ke folder bernama instalasi.
+2. klik folder yang merupakan OS Anda. Misalnya:
+os Anda adalah Mac OS X lalu klik folder itu, sama halnya dengan windows.
+3. unduh file .zip dari versi pilihan anda.
+
+Saat Anda menginstal file .zip, berikut adalah petunjuk
+tentang apa yang harus dilakukan:
+
+Lokasi: di file explorer Anda.
+
+1. klik kanan pada file .zip dan klik ekstrak di sini.
+2. ketika .zip dibuat menjadi folder biasa masuk ke dalam dan 
+temukan file .exe
+3. mainkan dan nikmati permainannya!
+
+squarethon dibuat oleh saya mengikuti tutorial yang dilakukan oleh brackeys.
