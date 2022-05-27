@@ -3,7 +3,7 @@
 This is where i'm going to put my installations
 for my game called squarethon.
 
-READ BEFORE INSTALLING!!
+PLEASE READ BEFORE INSTALLING
 
 How to install:
 
