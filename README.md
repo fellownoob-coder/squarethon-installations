@@ -28,8 +28,6 @@ squarethon is made by me following the tutorials done by brackeys.
 
 # instalasi-squarethon
 
-Indonesian translation:
-
 ini adalah tempat saya akan meletakkan instalasi
 saya untuk game saya yang disebut squarethon.
 
